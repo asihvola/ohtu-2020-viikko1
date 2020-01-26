@@ -1,0 +1,2 @@
+Tämä on tiedosto5 joka sijaitsee hakemistossa hakemisto2 joka
+taas sijaitsee hakemiston ohtu-2020-viikko1 alla.
