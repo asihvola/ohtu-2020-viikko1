@@ -1,0 +1,31 @@
+Luonnin jälkeen:
+-Mehuvarasto: saldo = 0.0, vielä tilaa 100.0
+-Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+Olutgetterit:
+getSaldo()     = 20.2
+getTilavuus    = 100.0
+paljonkoMahtuu = 79.8
+Mehusetterit:
+Lisätään 50.7
+-Mehuvarasto: saldo = 50.7, vielä tilaa 49.3
+Otetaan 3.14
+/Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+Virhetilanteita:
+new Varasto(-100.0);
+saldo = 0.0, vielä tilaa 0.0
+new Varasto(100.0, -50.7)
+ saldo = 0.0, vielä tilaa 100.0
+-Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+olutta.lisaaVarastoon(1000.0)
+-Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+/Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.lisaaVarastoon(-666.0)
+/Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+-Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+olutta.otaVarastosta(1000.0)
+saatiin 100.0
+-Olutvarasto: saldo = 0.0, vielä tilaa 100.0
+/Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.otaVarastosta(-32.9)
+saatiin 0.0
+/Mehuvarasto: saldo = 47.56, vielä tilaa 52.44

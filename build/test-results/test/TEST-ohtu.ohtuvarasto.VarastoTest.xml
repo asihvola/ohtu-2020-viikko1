@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.ohtuvarasto.VarastoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-01-26T16:07:00" hostname="Porkkana" time="0.043">
+  <properties/>
+  <testcase name="tulostusToimiiOikein" classname="ohtu.ohtuvarasto.VarastoTest" time="0.002"/>
+  <testcase name="ottaminenPalauttaaOikeanMaaran" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriAlkusaldollaNollaaTilavuudenJosTilavuusNegatiivinen" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivinenOttoEiMuutaMäärää" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="lisaysLisaaPienentaaVapaataTilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="lisaysLisaaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="konstruktoriAlkusaldollaToimii" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="yliMeneväMeneeYli" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="liikaaOttaminenAntaaVainSenMitäVoidaan" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivinenLisäysEiMuutaMäärää" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="konstruktoriAlkusaldollaNollaaSaldonJosTilavuusSaldo" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="ottaminenLisääTilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="uudellaVarastollaOikeaTilavuus" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriLuoTyhjanVaraston" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="negatiivinenTilavuusMuuttuuNollaksi" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="konsAtruktoriAlkusaldollaNollaaSaldonJosTilavuusSaldo" classname="ohtu.ohtuvarasto.VarastoTest" time="0.028"/>
+  <system-out><![CDATA[Luonnin jälkeen:
+Mehuvarasto: saldo = 0.0, vielä tilaa 100.0
+Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+Olutgetterit:
+getSaldo()     = 20.2
+getTilavuus    = 100.0
+paljonkoMahtuu = 79.8
+Mehusetterit:
+Lisätään 50.7
+Mehuvarasto: saldo = 50.7, vielä tilaa 49.3
+Otetaan 3.14
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+Virhetilanteita:
+new Varasto(-100.0);
+saldo = 0.0, vielä tilaa 0.0
+new Varasto(100.0, -50.7)
+saldo = 0.0, vielä tilaa 100.0
+Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+olutta.lisaaVarastoon(1000.0)
+Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.lisaaVarastoon(-666.0)
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+olutta.otaVarastosta(1000.0)
+saatiin 100.0
+Olutvarasto: saldo = 0.0, vielä tilaa 100.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.otaVarastosta(-32.9)
+saatiin 0.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

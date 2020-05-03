@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.27">
+<file name="/home/ari/ohtu-2020-viikko1/src/main/java/main/ohtuvarasto/Main.java">
+<error line="5" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="5" column="5" severity="error" message="Metodin pituus on 43 riviä (suurin sallittu on 15)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="7" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="8" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="22" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="41" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="42" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="44" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="48" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="49" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="50" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="53" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="54" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="55" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="57" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/ari/ohtu-2020-viikko1/src/main/java/varasto/Varasto.java">
+<error line="6" severity="error" message="member def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" severity="error" message="member def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" severity="error" message="ctor def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" severity="error" message="else lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="error" message="&apos;else&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" severity="error" message="else rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" severity="error" message="&apos;ctor def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" severity="error" message="ctor def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" severity="error" message="ctor def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="22" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="error" message="else lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" severity="error" message="&apos;else&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" severity="error" message="else rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" severity="error" message="if lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="31" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="error" message="&apos;else&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" severity="error" message="else rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" severity="error" message="ctor def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="40" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="42" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="44" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="48" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="51" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="53" severity="error" message="if lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="54" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="55" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="57" severity="error" message="if lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="58" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="59" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" severity="error" message="&apos;else&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="61" severity="error" message="else rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="64" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="65" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="66" severity="error" message="if lcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="67" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="68" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="69" severity="error" message="if sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="70" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="71" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="72" severity="error" message="&apos;if&apos; lapsi on väärä sisennystason 12, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="73" severity="error" message="if rcurly sisennyssyvyydellä 8 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="75" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="76" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="77" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="80" severity="error" message="method def modifier sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="81" severity="error" message="&apos;method def&apos; lapsi on väärä sisennystason 8, odottaa taso olisi 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="82" severity="error" message="method def rcurly sisennyssyvyydellä 4 ei ole oikealla syvyydellä 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>

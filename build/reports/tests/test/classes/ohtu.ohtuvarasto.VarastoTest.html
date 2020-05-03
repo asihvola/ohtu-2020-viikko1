@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class ohtu.ohtuvarasto.VarastoTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class ohtu.ohtuvarasto.VarastoTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/ohtu.ohtuvarasto.html">ohtu.ohtuvarasto</a> &gt; VarastoTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">16</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.036s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">konsAtruktoriAlkusaldollaNollaaSaldonJosTilavuusSaldo</td>
+<td class="success">0.028s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">konstruktoriAlkusaldollaNollaaSaldonJosTilavuusSaldo</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">konstruktoriAlkusaldollaNollaaTilavuudenJosTilavuusNegatiivinen</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">konstruktoriAlkusaldollaToimii</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">konstruktoriLuoTyhjanVaraston</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">liikaaOttaminenAntaaVainSenMitäVoidaan</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">lisaysLisaaPienentaaVapaataTilaa</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">lisaysLisaaSaldoa</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">negatiivinenLisäysEiMuutaMäärää</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">negatiivinenOttoEiMuutaMäärää</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">negatiivinenTilavuusMuuttuuNollaksi</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">ottaminenLisääTilaa</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">ottaminenPalauttaaOikeanMaaran</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">tulostusToimiiOikein</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">uudellaVarastollaOikeaTilavuus</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">yliMeneväMeneeYli</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>Luonnin jälkeen:
+Mehuvarasto: saldo = 0.0, vielä tilaa 100.0
+Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+Olutgetterit:
+getSaldo()     = 20.2
+getTilavuus    = 100.0
+paljonkoMahtuu = 79.8
+Mehusetterit:
+Lisätään 50.7
+Mehuvarasto: saldo = 50.7, vielä tilaa 49.3
+Otetaan 3.14
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+Virhetilanteita:
+new Varasto(-100.0);
+saldo = 0.0, vielä tilaa 0.0
+new Varasto(100.0, -50.7)
+saldo = 0.0, vielä tilaa 100.0
+Olutvarasto: saldo = 20.2, vielä tilaa 79.8
+olutta.lisaaVarastoon(1000.0)
+Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.lisaaVarastoon(-666.0)
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+Olutvarasto: saldo = 100.0, vielä tilaa 0.0
+olutta.otaVarastosta(1000.0)
+saatiin 100.0
+Olutvarasto: saldo = 0.0, vielä tilaa 100.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+mehua.otaVarastosta(-32.9)
+saatiin 0.0
+Mehuvarasto: saldo = 47.56, vielä tilaa 52.44
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 6.1.1</a> at 26.1.2020 18:07:00</p>
+</div>
+</div>
+</body>
+</html>
